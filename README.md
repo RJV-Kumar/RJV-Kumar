@@ -13,7 +13,7 @@ I am a master's student in Management of Information Technology at the Universit
 
 </div>
 
-
+[![Rajeev GitHub Banner](./assets/Github-Cover-1.png)](https://github.com/RJV-Kumar)
 ---
 
 ## 🧰 Tech stack
