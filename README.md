@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RJV-Kumar/RJV-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Rajeev 👋
 
-Here are some ideas to get you started:
+I am a master's student in Management of Information Technology at the University of Oklahoma, with a bachelor's degree in Computer Engineering. I am a **software developer** and I like to build **full-stack web apps** and enjoy shipping clean, user-focused features — from UI polish to backend APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajeev-kumar-/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-4A90E2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.rajeev-kumar.me/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F5A623?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/RJV-kumar"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-6B7280?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+
+</div>
+
+
+---
+
+## 🧰 Tech stack
+
+### 🗣️ Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🧠 Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=swagger&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000)
+
+---
+
+## 📌 Featured work
+If you want the best overview, check my **pinned repos** — I keep them updated with live demos + README docs. ✅
+
+---
+
+## 🌿 My passions
+💻 Coding
+🥋 Martial arts
+🎬 Film making
+🌲 Nature
+
+---
+
+## 🤝 Let’s connect
+- 🔗 GitHub: https://github.com/RJV-kumar  
+- 💼 LinkedIn: https://www.linkedin.com/in/rajeev-kumar-/
+- 🌐 Portfolio: https://www.rajeev-kumar.me/
+
+---
+
+## 📊 GitHub stats
+![Metrics](./metrics.svg)
